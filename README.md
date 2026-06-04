@@ -51,13 +51,13 @@ Obtención, limpieza y visualización de datos económicos del Banco Mundial par
 
 ## Experiencia
 
-**Maquinista y Técnico de Proyectos Digitales - Modisprem S.A**  
+**Maquinista y Técnico de Proyectos Digitales - Modisprem S.A.**  
 Zaragoza | 09/2023 - Presente
 
 - Diseño de prompts y automatizaciones con Ollama y Claude/MCP.
 - Automatización de documentación y procesos industriales internos.
 - Mejora técnica de web corporativa, UX, SEO y posicionamiento.
-- Operación de maquinaria industrial Baumer para fabricación de piezas destinadas a Volkswagen, BMW, Audi y Mercedes-Benz.
+- Operación de maquinaria industrial Baumer para la fabricación de piezas destinadas a Volkswagen, BMW, Audi y Mercedes-Benz.
 
 **Técnico Informático - Measwind Renovable Services**  
 Zaragoza | 09/2022 - 07/2023
